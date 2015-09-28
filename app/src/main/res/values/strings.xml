@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custom Animations</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="zoom">Zoom</string>
+    <string name="clockwise">Clockwise</string>
+    <string name="move">Move</string>
+    <string name="fade">Fade</string>
+    <string name="blink">Blink</string>
+    <string name="slide">Slide</string>
+
+</resources>
